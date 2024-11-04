@@ -33,6 +33,6 @@
 
 
    <h1> why are you hi ???</h1>
-   <h2>Poll SCM </h2>
+   <h2>Poll  </h2>
   
 </form>
